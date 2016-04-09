@@ -1,0 +1,64 @@
+/* margin (top, right, bottom, left) */
+
+
+html,body {
+    width: 100%;
+	max-width: 640px;
+	margin: 0 auto;
+	padding: 0px 0px 10px 0px;
+	color: #000000;
+	text-align: center;
+	font-size: 10px;
+	font-style: normal;
+	font-family: verdana, helvetica, arial, sans-serif;
+}	 
+
+img,embed,object,video {
+	max-width: 100%;
+}
+
+html {
+	overflow-y: scroll;
+}
+
+h3 {
+	text-align: left;
+}
+
+.center {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.holders, .policies, .transactions {
+	display: none;
+	padding: 3em 0em 0em 0em;
+}
+
+.instruct {
+	display: inline;
+	font-size: 0.5em;
+	color: green;
+}
+
+
+/* Extra stuff for future use */
+.clearAll {
+	clear: both;
+	height: 0;
+	font-size: 0.0625em; /* 1px / 16px */
+	line-height: 0px;
+}
+
+.clearFloat {
+	clear: both;
+	height: 0px;
+}
+
+.clearFix {
+	display: block;
+	content: ".";
+	height: 0px;
+	visibility: hidden;
+	clear: both;
+}
