@@ -4,7 +4,7 @@
 	<title>Norcal Mutual</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="Description" content="">
+	<meta name="Description" content="GitHub Updated Version">
 	<meta name="Keywords" content="">
 	<!-- JQUERY -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
